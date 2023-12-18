@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Percobaan 6</string>
+    <integer-array name="nama_gambar">
+        <item>@drawable/qwer</item>
+    </integer-array>
+</resources>
